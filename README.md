@@ -17,10 +17,12 @@ Lab Links:
 - [Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flab%2Flab01%2Flab01.ipynb)
 - [Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flab%2Flab02%2Flab02.ipynb)
 - [Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flab%2Flab03%2Flab03.ipynb)
+- [Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flab%2Flab04%2Flab04.ipynb)
   
 Homework Links:
 - [HW 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw01%2Fhw01.ipynb)
 - [HW 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw02%2Fhw02.ipynb)
 - [HW 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw03%2Fhw03.ipynb)
+- [HW 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw04%2Fhw04.ipynb)
 
 Project Links:
