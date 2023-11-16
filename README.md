@@ -40,3 +40,4 @@ Homework Links:
 Project Links:
 - [Project 1](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fproject%2Fproject1%2Fproject1.ipynb)
 - [Project 2](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fproject%2Fproject2%2Fproject2.ipynb)
+- [Project 3](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fproject%2Fproject3%2Fproject3.ipynb)
